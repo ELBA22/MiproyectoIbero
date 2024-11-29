@@ -1,5 +1,10 @@
 ## Actividad 4 - Utilizando sistemas de control de versiones
 
+## Elba Esther Garcia Bello. 
+Id Barner: 100101364
+MANTENIMIENTO DE SOFTWARE
+
+
 # Proyecto Registro de Usuarios
 
 ## Descripcion
@@ -27,7 +32,7 @@ cd repositorio
 3. Ejecutamos el script de registro
 python registrarusuario.py
 
-#Para hacer un Commit
+# Para hacer un Commit
 1. Agregamos el archivo a Git
 git add registrarusuario.py
 
