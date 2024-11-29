@@ -1,6 +1,6 @@
-#Actividad 4 - Utilizando sistemas de control de versiones
+## Actividad 4 - Utilizando sistemas de control de versiones
 
-#Proyecto Registro de Usuarios
+# Proyecto Registro de Usuarios
 
 ## Descripcion
 Este proyecto permite registrar usuarios con sus datos personales, como nombre, correo electronico, edad, tipo de identificacion, numero de identificacion
@@ -17,7 +17,7 @@ El sistema valida la informacion ingresada y guarda los registros en un archivo.
 
 5. **Historia 5** : Como usuario, se registran varios usarios de manera continua.
 
-#Instalacion.
+# Instalacion.
 1. Clonamos el repositorio
 git clone https://github.com/ELBA22/MiproyectoIbero.git
 
